@@ -1,0 +1,9 @@
+Now i'm writing the code for git commands
+
+git clone URL
+touch files
+git add .
+git commit -m "commit message"
+
+vim filename
+cat filename
