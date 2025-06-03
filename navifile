@@ -1,1 +1,5 @@
-File is created in main with the same file created in other branch also.
+
+File is created in main with the same file created in other branch
+ This file is created in the devbranch file.
+
+ both files coments fine for creating the merge conflict. 
